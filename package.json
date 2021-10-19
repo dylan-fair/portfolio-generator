@@ -1,7 +1,6 @@
 {
   "name": "project",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "directories": {
     "lib": "lib"
@@ -11,9 +10,18 @@
     "start": "node app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Dylan Fair",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^7.0.3"
-  }
+    "inquirer": "^7.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylan-fair/portfolio-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dylan-fair/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/dylan-fair/portfolio-generator#readme",
+  "description": ""
 }
